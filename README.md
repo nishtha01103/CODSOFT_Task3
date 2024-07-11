@@ -15,4 +15,5 @@ Simple Calculator:
 	•	CSS3 🎨: Styled the interface to make it visually appealing and user-friendly.
 	•	JavaScript 🚀: Implemented the calculator logic and interactivity.
 
-This project was a fantastic experience, allowing me to deepen my understanding of web development and user interface design
+This project was a fantastic experience, allowing me to deepen my understanding of web development and user interface design.
+Link: https://nishtha01103.github.io/CODSOFT_Task3/
