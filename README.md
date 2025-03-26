@@ -1,4 +1,4 @@
-# CODSOFT_Task3
+
 Simple Calculator:
  I developed a simple yet functional calculator using web development technologies. This project was an excellent opportunity to refine my skills and apply them to a practical application.
 
