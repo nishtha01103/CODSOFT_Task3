@@ -16,4 +16,4 @@ Simple Calculator:
 	•	JavaScript 🚀: Implemented the calculator logic and interactivity.
 
 This project was a fantastic experience, allowing me to deepen my understanding of web development and user interface design.
-Link: https://nishtha01103.github.io/CODSOFT_Task3/
+Link: https://nishtha01103.github.io/Simple-Calculator-/
